@@ -1,0 +1,22 @@
+{
+  "name": "playwright_mahfuz",
+  "version": "1.0.0",
+  "description": "I am writing this in github",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdmrahman148/Playwright_Mahfuz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdmrahman148/Playwright_Mahfuz/issues"
+  },
+  "homepage": "https://github.com/mdmrahman148/Playwright_Mahfuz#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
